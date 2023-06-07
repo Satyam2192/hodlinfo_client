@@ -140,7 +140,7 @@ export const MainPage = () => {
                   <td class="align-middle">
                     <a target="_blank" href="">
                       <h4 class="table-text">
-                        <img src="wazix.png" class="exchange-logo"></img>{" "}
+                        
                         <span class="exchange-name ">{ticker.name}</span>
                       </h4>
                     </a>
